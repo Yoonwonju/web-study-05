@@ -13,7 +13,7 @@
 	response.addCookie(cookie);
 %>
 <h3> id 쿠키가 삭제 되었 습 니 다 </h3>
-<a href = "02_getCookies.jsp">
+<a href = "/login/02_getCookies.jsp">
 	쿠키 삭제를 확인하려면 클릭!
 </a>
 </body>
